@@ -106,17 +106,17 @@ CAB123 John 2026.01.03 100 25 2500
 
 # Features Summary
 
-✔ Add / View / Update / Delete vehicles
+Add / View / Update / Delete vehicles
 
-✔ Prevent duplicate vehicle registration numbers
+Prevent duplicate vehicle registration numbers
 
-✔ Sales cost calculated automatically
+Sales cost calculated automatically
 
-✔ File-based persistent storage
+File-based persistent storage
 
-✔ Simple authentication system
+Simple authentication system
 
-✔ Menu-driven UI
+Menu-driven UI
 
 
 
