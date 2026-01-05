@@ -119,34 +119,6 @@ Simple authentication system
 Menu-driven UI
 
 
-
-#How to Run
-
-Compile the program:
-
-g++ main.cpp -o tourmate
-
-
-Run the executable:
-
-./tourmate
-
-
-Follow on-screen menus.
-
-#Known Limitations
-
-Passwords are stored in plain text
-
-No encryption or hashing
-
-No input sanitization for spaces in vehicle fields
-
-Limited to 50 vehicles
-
-Console-based UI only
-
-
 # License
 
 This project is for educational purposes.
